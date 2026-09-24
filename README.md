@@ -6,7 +6,7 @@ House iOS craft: glasses POV on this phone. Meta Wearables DAT **0.8.0**. LZRC c
 
 ## What this repo is
 
-A public explanation page for Pathfinder, Upwork, and LinkedIn. Not the Xcode sample. Not a binary.
+A public explanation page for Pathfinder, Upwork, and LinkedIn. Not the Xcode sample. Not a binary. On-demand camera is described here. The listen client is not.
 
 ## What it is not
 
